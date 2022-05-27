@@ -45,10 +45,9 @@ h3 {
 
 .bottom-cloud {
   position: absolute;
-  left: 0px;
-  bottom: 0px;
-  overflow: auto;
-}
+  left: 200px;
+  bottom: 200px;
+  }
 
 .btn {
   padding-top: 10px;
