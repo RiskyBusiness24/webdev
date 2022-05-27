@@ -47,6 +47,7 @@ h3 {
   position: absolute;
   left: 300px;
   bottom: 1800px;
+  overflow: auto;
 }
 
 .btn {
